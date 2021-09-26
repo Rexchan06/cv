@@ -31,7 +31,11 @@ a {
   text-decoration: none;
 }
 
-a:hover {
+.link1:hover {
+  color: #EAF6F6;
+}
+
+.link2:hover {
   color: #EAF6F6;
 }
 
