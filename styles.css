@@ -28,11 +28,12 @@ hr {
 
 a {
   font-family: 'Merriweather', serif;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .link {
   padding: 10px 20px;
+  text-decoration: none;
 }
 
 .link:hover {
