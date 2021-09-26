@@ -110,7 +110,6 @@ a {
 
 .BUTTON_IZA {
   position: relative;
-  left: 700px;
   margin-bottom: 5px;
 }
 
@@ -149,3 +148,7 @@ a {
 .hobbies {
   background-color: #EAF6F6;
 }  
+
+.button {
+  text-align: center;
+}
