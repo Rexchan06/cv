@@ -61,6 +61,11 @@ a {
   padding-top: 35px;
 }
 
+p.button {
+  text-align: center;
+  margin: 50px auto 50px auto;
+}
+
 .BUTTON_IZA {
    background: #11CDD4;
    background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
@@ -145,8 +150,3 @@ a {
 .hobbies {
   background-color: #EAF6F6;
 }  
-
-.button {
-  text-align: center;
-  margin: 50px auto 50px auto;
-}
