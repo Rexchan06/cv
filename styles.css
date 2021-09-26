@@ -31,11 +31,11 @@ a {
   text-decoration: none;
 }
 
-.link1:hover {
-  color: #EAF6F6;
+.link {
+  padding: 10px 20px;
 }
 
-.link2:hover {
+.link:hover {
   color: #EAF6F6;
 }
 
@@ -47,17 +47,6 @@ a {
 
 .table {
   margin-bottom: 20px;
-}
-
-.link1 {
-  position: absolute;
-  left: 650px;
-  width: 200%;
-}
-
-.link2 {
-  position: absolute;
-  right: 650px;
 }
 
 .copyright {
