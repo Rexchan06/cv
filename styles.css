@@ -34,8 +34,6 @@ a {
 .link {
   padding: 10px 20px;
   text-decoration: none;
-  color: #11999E;
-  font-family: 'Montserrat', sans-serif;
 }
 
 .link:hover {
@@ -50,6 +48,8 @@ a {
 
 .bottom-body {
   text-align: center;
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .table {
